@@ -67,3 +67,13 @@
       src="https://img.shields.io/badge/iyoung4121117@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
+
+<br>
+
+<h3 align="center">🌟 Github Stats 🌟</h3>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Sally597&show_icons=true&&hide_title=true&theme=ambient_gradient" alt="Sally's GitHub stats">
+  </a>
+</p>
+
